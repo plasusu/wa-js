@@ -1,13 +1,8 @@
 {
-  "name": "@wppconnect/wa-js",
+  "name": "plasusu-wa-js",
   "version": "3.19.3",
   "description": "WPPConnect/WA-JS is an open-source project with the aim of exporting functions from WhatsApp Web",
   "license": "Apache-2.0",
-  "author": {
-    "name": "Edgard Messias",
-    "email": "edgardmessias@gmail.com",
-    "url": "https://github.com/edgardmessias"
-  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",

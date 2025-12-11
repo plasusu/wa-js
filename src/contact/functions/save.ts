@@ -68,15 +68,15 @@ export async function save(
 
   const lid = wid.isLid()
     ? wid.user
-    : alternateWid.isLid()
-      ? alternateWid.user
+    : alternateWid?.isLid?.()
+      ? alternateWid?.user
       : null;
 
   const phoneNumber =
     wid.server === 'c.us'
       ? wid.user
-      : alternateWid.server === 'c.us'
-        ? alternateWid.user
+      : alternateWid?.server === 'c.us'
+        ? alternateWid?.user
         : null;
 
   const syncToAddressbook =
