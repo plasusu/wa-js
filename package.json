@@ -1,6 +1,6 @@
 {
   "name": "plasusu-wa-js",
-  "version": "3.19.6",
+  "version": "3.19.7",
   "description": "WPPConnect/WA-JS is an open-source project with the aim of exporting functions from WhatsApp Web",
   "license": "Apache-2.0",
   "exports": {
@@ -47,7 +47,7 @@
     "@types/shelljs": "^0.10.0",
     "@typescript-eslint/eslint-plugin": "^8.53.0",
     "@typescript-eslint/parser": "^8.53.0",
-    "@wppconnect/wa-version": "^1.5.3055",
+    "@wppconnect/wa-version": "^1.5.3074",
     "buffer": "^6.0.3",
     "compare-versions": "^6.1.1",
     "compressorjs": "^1.2.1",
