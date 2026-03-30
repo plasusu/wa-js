@@ -1,9 +1,9 @@
-## 3.22.1 (2026-02-28)
+## 3.23.2 (2026-03-18)
 
 
 ### Bug Fixes
 
-* getMessages (msgs.push is not a function) ([#3364](https://github.com/wppconnect-team/wa-js/issues/3364)) ([bdd2224](https://github.com/wppconnect-team/wa-js/commit/bdd222400e594e98b74cadc06a3a21eef3f2ecd8))
+* update exportModule to correctly reference WAWebDBCreateLidPnMap ([#3384](https://github.com/wppconnect-team/wa-js/issues/3384)) ([8c8680a](https://github.com/wppconnect-team/wa-js/commit/8c8680a5d1d67f93786f195cea001c1eaa966daa))
 
 
 
